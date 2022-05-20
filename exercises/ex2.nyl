@@ -1,0 +1,21 @@
+🍙 ex2_fun = 🏨 () {
+    🍄🍄("the flower symbol is for looping and the numbmer last is how many times it will loop");
+    🍙 result = 0 ;
+    🌸 (
+            🏨 () {
+                🍄🍄("TODO: add 3 to result on every loop") ;
+
+            },
+            50
+    ) ;
+
+    🍄🍄("test cases. DO NOT EDIT.");
+    🐶 (result != 150) {
+        ❌("the answer is not 50 * 3");
+    }
+} ;
+
+🍄🍄("this program starts from main function.");
+🍙 main = 🏨 () {
+    ex2_fun();
+};

@@ -1,0 +1,15 @@
+🍙 ex1_fun = 🏨 () {
+    🍄🍄("TODO: calc 3 + 4 and then print it, doe curently 3 + 2");
+    🍙 calculated = 3 + 2;
+    🎤🎶("the result is: " + calculated);
+
+    🍄🍄("test cases. DO NOT EDIT.");
+    🐶 (calculated != 7) {
+        ❌("calculated is not 3 + 4");
+    }
+} ;
+
+🍄🍄("this program starts from main function.");
+🍙 main = 🏨 () {
+    ex1_fun();
+};
